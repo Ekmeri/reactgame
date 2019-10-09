@@ -1,0 +1,49 @@
+#button-container {
+    margin: 0 auto
+  }
+  
+  .button {
+    width: 140px;
+    height: 140px;
+    background-color: black;
+    color: white;
+    float: left;
+    font-size: 100px;
+    margin: 15px 15px;
+    padding: 10px 0px;
+    text-align: center;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+
+  .color1 {
+    background-color: chartreuse;
+  }
+
+  .color1_1 {
+    background-color: rgb(96, 172, 20);
+  }
+
+  .color2 {
+    background-color: hotpink;
+  }
+
+  .color2_2 {
+    background-color: rgb(155, 32, 94);
+  }
+
+  .color3 {
+    background-color: gold;
+  }
+
+  .color3_3 {
+    background-color: rgb(151, 134, 34);
+  }
+
+  .color4 {
+    background-color: dodgerblue
+  }
+
+  .color4_4 {
+    background-color: rgb(30, 83, 136)
+  }
